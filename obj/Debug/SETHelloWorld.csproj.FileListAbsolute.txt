@@ -1,0 +1,7 @@
+c:\users\varda\documents\visual studio 2015\Projects\SETHelloWorld\SETHelloWorld\bin\Debug\SETHelloWorld.dll
+c:\users\varda\documents\visual studio 2015\Projects\SETHelloWorld\SETHelloWorld\bin\Debug\SETHelloWorld.pdb
+c:\users\varda\documents\visual studio 2015\Projects\SETHelloWorld\SETHelloWorld\obj\Debug\SETHelloWorld.csprojResolveAssemblyReference.cache
+c:\users\varda\documents\visual studio 2015\Projects\SETHelloWorld\SETHelloWorld\obj\Debug\SETHelloWorld.dll
+c:\users\varda\documents\visual studio 2015\Projects\SETHelloWorld\SETHelloWorld\obj\Debug\SETHelloWorld.pdb
+c:\Program Files (x86)\TRICENTIS\Tosca Testsuite\SETHelloWorld.dll
+C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\SETHelloWorld.pdb
